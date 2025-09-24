@@ -1,2 +1,2 @@
 # 코딩테스트 연습
-기초부터 차근차근
+JavaScript, TypeSciprt로 기초부터 차근차근
